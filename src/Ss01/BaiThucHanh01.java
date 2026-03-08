@@ -3,17 +3,6 @@ package Ss01;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
-class InvalidAgeException extends Exception {
-    public InvalidAgeException(String message) {
-        super(message);
-    }
-}
-
-class InvalidEmailException extends Exception {
-    public InvalidEmailException(String message) {
-        super(message);
-    }
-}
 
 public class BaiThucHanh01 {
     public static void main(String[] args) {
