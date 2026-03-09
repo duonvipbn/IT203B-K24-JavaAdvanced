@@ -1,0 +1,20 @@
+1. Bối cảnh & Vai trò
+Dấu mốc: Phát hành năm 2014, là phiên bản quan trọng nhất lịch sử Java.
+
+Thay đổi bản chất: Kết hợp giữa OOP truyền thống và Lập trình hàm (Functional Programming).
+
+Mục tiêu: Cắt giảm mã nguồn thừa (boilerplate), hỗ trợ xử lý song song trên CPU đa lõi hiệu quả hơn.
+
+2. Các tính năng đột phá
+Lambda & Functional Interface: Thay thế các Anonymous class cồng kềnh bằng cú pháp hàm ẩn danh ngắn gọn.
+
+Stream API: Xử lý dữ liệu (Collections) theo luồng (pipeline) với các toán tử mạnh mẽ như filter, map, reduce.
+
+Cải tiến Interface: Cho phép phương thức default và static giúp tăng tính tương thích ngược.
+
+Optional & Date/Time API: Giảm thiểu lỗi NullPointerException và thay thế bộ thư viện thời gian cũ kỹ bằng các API bất biến, an toàn (thread-safe).
+
+3. Ý nghĩa chiến lược
+Nền tảng: Là cơ sở cho tất cả các phiên bản Java hiện đại sau này (Java 17, 21, 25).
+
+Hỗ trợ: Được Oracle hỗ trợ dài hạn (LTS) đến tận năm 2030, vẫn là tiêu chuẩn sử dụng rộng rãi trong các doanh nghiệp.
