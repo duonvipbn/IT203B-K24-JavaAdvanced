@@ -27,4 +27,3 @@ public class Bai05 {
         superadmin.logActivity("Login system");
     }
 }
-//diamond problem
