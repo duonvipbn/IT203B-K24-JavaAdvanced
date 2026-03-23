@@ -21,7 +21,7 @@
 //Rò rỉ dữ liệu nghiêm trọng
 //Lộ toàn bộ bệnh án
 //PHẦN 2 – THỰC THI
-//Cách 1: Lọc ký tự nguy hiểm (theo yêu cầu đề)
+//: Lọc ký tự nguy hiểm (theo yêu cầu đề)
 //Ý tưởng:
 //
 //Loại bỏ các ký tự:
